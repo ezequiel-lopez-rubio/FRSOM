@@ -1,5 +1,5 @@
 # FRSOM
-The Forbidden Region Self-Organizing Map Neural Network
+
 This repository contains the source code of the paper [The Forbidden Region Self-Organizing Map Neural Network](https://ieeexplore.ieee.org/document/8668715).
 
 The contents of this code are provided without any warranty. They are intended for evaluational purposes only.
