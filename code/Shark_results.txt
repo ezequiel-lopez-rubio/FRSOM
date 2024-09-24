@@ -1,0 +1,10 @@
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,5.285563,3.772454
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,3.953854,3.186899
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,3.396800,2.672647
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,3.423155,3.064478
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,3.852427,2.811129
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,4.843139,3.948032
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,4.547230,3.375736
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,3.925526,7.780773
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,3.613932,3.424958
+From IOBIS.ORG (Galeocerdo cuvier near Australia).mat,Australia_barriers.mat,-1,0,6,6,1000,Square,0,0.200000,0.750000,0.050000,0.100000,4.778232,2.618580

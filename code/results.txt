@@ -1,0 +1,2 @@
+From IOBIS.ORG (Balaenoptera physalus near Greenland and Iceland).mat,Greenland+Iceland_barriers.mat,16,1,1000,Square,0,0.214023,2.019922,0.049277,0.097363,1.712798,1.653929
+From IOBIS.ORG (Balaenoptera physalus near Greenland and Iceland).mat,Greenland+Iceland_barriers.mat,16,1,1000,Square,0,0.214023,2.019922,0.049277,0.097363,1.750106,1.763961
